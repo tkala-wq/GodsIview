@@ -3682,6 +3682,16 @@
   "Remove every added entry from Data Layers": "הסרת כל הפריטים שנוספו משכבות נתונים",
   "Showing {shown} of {total}": "מוצגים {shown} מתוך {total}",
   "BROWSE DATA LIBRARY": "עיון בספריית הנתונים",
+  "aircraft operation|Airline": "חברת תעופה",
+  "aircraft operation|Air taxi": "מונית אווירית",
+  "aircraft operation|Government": "ממשלתי",
+  "aircraft operation|Private": "פרטי",
+  "Built {year}": "נבנה ב-{year}",
+  "{count} seats": {
+    "one": "{count} מושב",
+    "two": "{count} מושבים",
+    "other": "{count} מושבים"
+  },
   "Atmosphere": "אטמוספרה",
   "Day and night": "יום ולילה",
   "Sun": "שמש",

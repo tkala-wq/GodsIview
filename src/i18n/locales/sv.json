@@ -3595,6 +3595,15 @@
   "Remove every added entry from Data Layers": "Ta bort alla tillagda poster från Datalager",
   "Showing {shown} of {total}": "Visar {shown} av {total}",
   "BROWSE DATA LIBRARY": "BLÄDDRA I DATABIBLIOTEKET",
+  "aircraft operation|Airline": "Flygbolag",
+  "aircraft operation|Air taxi": "Taxiflyg",
+  "aircraft operation|Government": "Statlig",
+  "aircraft operation|Private": "Privat",
+  "Built {year}": "Byggd {year}",
+  "{count} seats": {
+    "one": "{count} säte",
+    "other": "{count} säten"
+  },
   "Atmosphere": "Atmosfär",
   "Day and night": "Dag och natt",
   "Sun": "Sol",
