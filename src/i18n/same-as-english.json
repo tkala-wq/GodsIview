@@ -252,7 +252,11 @@
     "OPT-IN",
     "{minutes} min",
     "1 min/s",
-    "Status"
+    "Status",
+    "ON AIR",
+    "Stream",
+    "{seconds} s",
+    "Mode"
   ],
   "es": [
     "1 min/s",
@@ -417,7 +421,9 @@
     "NORAD: {id}",
     "Regional",
     "{datasets} · {tiles} · {packs}",
-    "VIRTUAL"
+    "VIRTUAL",
+    "Manual",
+    "{seconds} s"
   ],
   "fr": [
     "1 min/s",
@@ -641,7 +647,8 @@
     "Orthophoto",
     "Oblique",
     "Type",
-    "{range} NM"
+    "{range} NM",
+    "{seconds} s"
   ],
   "it": [
     "1 min/s",
@@ -848,7 +855,8 @@
     "NORAD: {id}",
     "DATASET",
     "{count} datasets",
-    "ZOOM"
+    "ZOOM",
+    "{seconds} s"
   ],
   "ja": [
     "1090 MHz",
@@ -1079,7 +1087,9 @@
     "MMSI: {id}",
     "NORAD: {id}",
     "Regional",
-    "VIRTUAL"
+    "VIRTUAL",
+    "Manual",
+    "{seconds} s"
   ],
   "ru": [
     "1900–1945",
@@ -1277,7 +1287,8 @@
     "ICAO: {id}",
     "NORAD: {id}",
     "MMSI: {id}",
-    "Status"
+    "Status",
+    "{seconds} s"
   ],
   "uk": [
     "1900–1945",
